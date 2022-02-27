@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nstore.iml" filepath="$PROJECT_DIR$/.idea/modules/Nstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Nstore.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Nstore.app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sell_product.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\layout\\fragment_sell_product.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_config.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\layout\\fragment_config.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_format_list_bulleted_24.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\drawable\\ic_baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barcode.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\drawable\\barcode.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom_navigation.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\layout\\activity_bottom_navigation.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_build_24.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\drawable\\ic_baseline_build_24.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_upload.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\drawable-v24\\upload.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_register_product.xml.flat",
+        "source": "P:\\DocumentosDavid\\AndroidStudioProjects\\Nstore\\app\\src\\main\\res\\layout\\fragment_main_register_product.xml"
+    }
+]

@@ -1,0 +1,10 @@
+com/daviud/nstore/databinding/ActivityBottomNavigationBinding.java
+ com.daviud.nstore.databinding.ActivityBottomNavigationBinding
+com/daviud/nstore/databinding/FragmentConfigBinding.java
+ com.daviud.nstore.databinding.FragmentConfigBinding
+com/daviud/nstore/databinding/FragmentMainRegisterProductBinding.java
+ com.daviud.nstore.databinding.FragmentMainRegisterProductBinding
+com/daviud/nstore/BuildConfig.java
+ com.daviud.nstore.BuildConfig
+com/daviud/nstore/databinding/FragmentSellProductBinding.java
+ com.daviud.nstore.databinding.FragmentSellProductBinding
